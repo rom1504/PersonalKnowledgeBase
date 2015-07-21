@@ -1,0 +1,19 @@
+PREFIX rb: <http://romainbeaumont.fr/>
+PREFIX dbo: <http://dbpedia.org/ontology>
+PREFIX tv: <http://romainbeaumont.fr/tvOntology/>
+PREFIX rtv: <http://romainbeaumont.fr/tvResource/>
+PREFIX cn: <http://romainbeaumont.fr/chineseOntology/>
+PREFIX rcn: <http://romainbeaumont.fr/chineseResource/>
+
+rb:Romain_Beaumont dbo:birthDate "1990-04-05".
+
+rb:Romain_Beaumont tv:episodeSeen rb:ep1.
+rb:ep1 tv:season 1.
+rb:ep1 tv:series rtv:Arrow.
+rb:ep1 tv:dateSeen "2015-03-01 21:15".
+
+rb:Romain_Beaumont cn:knownWord rb:word1.
+rb:word1 cn:firstContactWithWord "2015-07-10 13h10".
+rb:word1 cn:memriseLevelOfKnowledge 3.
+rb:word1 cn:word rcn:我.
+
