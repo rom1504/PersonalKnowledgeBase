@@ -107,9 +107,10 @@ Probably java for the backend and java or node.js for the frontend.
 
 ## Related works
 
-* Solid : protocols to build social linked applications, interesting but it seems too broad to apply it here
-* Facebook Open Graph : pretty solid technology, but sadly it's doesn't propose data in any standard way nor does it allow to put any kind of personalized information in it. And the third problem is it is a totally centralized software that cannot be stored elsewhere than on Facebook servers
-* Freebase / new Google knowledge graph API : allow any personalized informations, but all the other problems of the Facebook Open Graph are there. However, it will be very interesting to see the possibilities of interaction between those and PersonalKnowledgeBase through importers, exporters and federated queries.
+* [Solid](https://github.com/linkeddata/SoLiD) : protocols to build social linked applications, interesting but it seems too broad to apply it here
+* [Linked Data Platform](http://www.w3.org/TR/ldp/) : allow CRUD access to linked data
+* [Facebook Open Graph](https://developers.facebook.com/docs/sharing/opengraph) : pretty solid technology, but sadly it's doesn't propose data in any standard way nor does it allow to put any kind of personalized information in it. And the third problem is it is a totally centralized software that cannot be stored elsewhere than on Facebook servers
+* [Freebase / new Google knowledge graph API](https://developers.google.com/freebase/) : allow any personalized informations, but all the other problems of the Facebook Open Graph are there. However, it will be very interesting to see the possibilities of interaction between those and PersonalKnowledgeBase through importers, exporters and federated queries.
 * Any interesting articles about that in the semantic web community ?
 
 
