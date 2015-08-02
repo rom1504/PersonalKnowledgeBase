@@ -112,6 +112,7 @@ Probably java for the backend and java or node.js for the frontend.
 * [rww.io](https://github.com/deiu/rww.io) : RWW.IO is a personal Linked Data store
 * [Facebook Open Graph](https://developers.facebook.com/docs/sharing/opengraph) : pretty solid technology, but sadly it's doesn't propose data in any standard way nor does it allow to put any kind of personalized information in it. And the third problem is it is a totally centralized software that cannot be stored elsewhere than on Facebook servers
 * [Freebase / new Google knowledge graph API](https://developers.google.com/freebase/) : allow any personalized informations, but all the other problems of the Facebook Open Graph are there. However, it will be very interesting to see the possibilities of interaction between those and PersonalKnowledgeBase through importers, exporters and federated queries.
+* [WebID](http://www.w3.org/wiki/WebID) linked data way to do authentification
 * Any interesting articles about that in the semantic web community ?
 
 
